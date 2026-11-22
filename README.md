@@ -1,16 +1,15 @@
-## Hi there 👋
+# Connor Guy 🐱
 
-<!--
-**Connor-Guy/Connor-Guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student (AI option) at the University of British Columbia, seeking Winter and Summer 2027 co-op positions in software development.
 
-Here are some ideas to get you started:
+I enjoy building practical tools that solve real problems, with experience across full-stack web development, mobile apps, and C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐈 Current Project
+**UltiStats** – An offline-first mobile app for tracking ultimate frisbee statistics during live games, built with React Native, TypeScript, and SQLite using an event-log data model.
+
+### 😺 Technical Skills
+- **Languages:** TypeScript/JavaScript, Python, Java, C/C++, SQL, R, HTML/CSS
+- **Frameworks & Tools:** React, React Native, Expo, Node.js, Express.js, SQLite, scikit-learn, FLTK, Git
+
+### 🐾 Contact
+- LinkedIn: [linkedin.com/in/connor-guy-m](https://www.linkedin.com/in/connor-guy-m)
